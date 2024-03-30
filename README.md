@@ -1,5 +1,3 @@
-# Se desejar visualizar o Readme de forma mais clara, acesse o link do repositório do projeto: https://github.com/MacaulyV/Gerenciador-de-Dados-de-Pesquisa-com-PySimpleGUI/tree/master
-
 ### Importante
 #### O arquivo responsável por executar o Projeto é Main.py, Adicionamos comentários em cada função/arquivo para facilitar a compreensão e correção do código.
 
