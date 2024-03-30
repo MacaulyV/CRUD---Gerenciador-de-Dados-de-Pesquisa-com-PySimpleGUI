@@ -1,3 +1,4 @@
+from Crud import crud_gui
 from Dependencias import sg, re
 
 # Função para criar a interface gráfica do usuário (GUI) de login

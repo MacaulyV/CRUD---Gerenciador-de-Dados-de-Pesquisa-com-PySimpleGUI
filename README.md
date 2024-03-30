@@ -1,5 +1,7 @@
+# Se desejar visualizar o Readme de forma mais clara, acesse o link do repositório do projeto: https://github.com/MacaulyV/Gerenciador-de-Dados-de-Pesquisa-com-PySimpleGUI/tree/master
+
 ### Importante
-#### tentamos deixar o código mais organizado, separado em alguns arquivos, adicionando import dos arquivos na Main.py, que seria responsável por chamar cada função na sua vez, porém não conseguimos fazer funcionar corretamente e resolvemos não gastar muito tempo com a questão. Mas, para facilitar na correção, o código de cada função e funcionalidade está no seu arquivo separado, porém o arquivo responsável por executar tudo é o Sistema com Crud para Manipulação de Dados.
+#### O arquivo responsável por executar o Projeto é Main.py, Adicionamos comentários em cada função/arquivo para facilitar a compreensão e correção do código.
 
 # Sobre o Projeto
 ## Este projeto é uma aplicação GUI (Interface Gráfica do Usuário) desenvolvida em Python para gerenciar dados de pesquisa armazenados em um arquivo CSV. Utiliza a biblioteca PySimpleGUI para criar a interface e a biblioteca csv para ler e escrever no arquivo CSV. A aplicação permite ao usuário carregar, visualizar, atualizar, deletar e criar novos registros de dados. Além disso, inclui uma tela de login simples para acessar a funcionalidade principal.
