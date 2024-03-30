@@ -1,6 +1,5 @@
 ### Importante
-#### O arquivo responsável por executar o Projeto é Main.py, Adicionamos comentários em cada função/arquivo para facilitar a compreensão e correção do código.
-
+#### O arquivo responsável por executar o Projeto é Main.py.
 # Sobre o Projeto
 ## Este projeto é uma aplicação GUI (Interface Gráfica do Usuário) desenvolvida em Python para gerenciar dados de pesquisa armazenados em um arquivo CSV. Utiliza a biblioteca PySimpleGUI para criar a interface e a biblioteca csv para ler e escrever no arquivo CSV. A aplicação permite ao usuário carregar, visualizar, atualizar, deletar e criar novos registros de dados. Além disso, inclui uma tela de login simples para acessar a funcionalidade principal.
 
